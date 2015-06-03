@@ -1,0 +1,12 @@
+bin-debug/
+bin-release/
+out/
+.actionScriptProperties
+.flexProperties
+.settings/
+.idea/
+.project
+.DS_Store
+*.iml
+output.txt
+node_modules
